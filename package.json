@@ -1,0 +1,26 @@
+{
+  "name": "abir",
+  "version": "1.0.0",
+  "description": "a short description of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abiryusuf/Generator_ReadMe.git"
+  },
+  "author": "abir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abiryusuf/Generator_ReadMe/issues"
+  },
+  "homepage": "https://github.com/abiryusuf/Generator_ReadMe#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axois": "0.0.1-security",
+    "badmath": "^1.0.1",
+    "file-system": "^2.2.2",
+    "inquirer": "^7.1.0"
+  }
+}
