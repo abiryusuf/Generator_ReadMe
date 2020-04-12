@@ -1,6 +1,8 @@
 ## Good_README_Generator
 
- https://drive.google.com/file/d/1iuTuSSlZMGad91gRB7ECPn4jaylINOqr/view
+<img src ="readme.gif>
+
+ * gif link: https://drive.google.com/file/d/1iuTuSSlZMGad91gRB7ECPn4jaylINOqr/view
 
 ## Description 
 A Terminal or Command line application that dynamically generate a README.md from a user input.
@@ -14,7 +16,7 @@ A Terminal or Command line application that dynamically generate a README.md fro
 * [Team](#team)
 * [Usage](#usage)
 * [License](#license)
-* [Tests] (#tests)
+* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation 
