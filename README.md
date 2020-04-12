@@ -1,7 +1,9 @@
 ## Good_README_Generator
 
+ https://drive.google.com/file/d/1iuTuSSlZMGad91gRB7ECPn4jaylINOqr/view
+
 ## Description 
-From Terminal or Command line application that dynamically generate a README.md from a user input.
+A Terminal or Command line application that dynamically generate a README.md from a user input.
 
 ## Table of Contents
 
@@ -42,9 +44,11 @@ npm install inquirer
  Have to install All dependencies such as npm, axios. 
 
  ## License 
- * https://opensource.org/licenses/Apache-2.0
+ 
+ * Link apache: https://opensource.org/licenses/Apache-2.0
 
- [!License(https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+ [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
  ## Tests 
   Runing test by using the commmand:
