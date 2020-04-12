@@ -1,7 +1,8 @@
 ## Good_README_Generator
 
-<img src ="readme.gif>
 
+![Screen Shot 2020-04-11 at 10 07 02 PM](https://user-images.githubusercontent.com/41492852/79058851-0497d800-7c41-11ea-9948-51dc85e6bba6.png)
+ 
  * gif link: https://drive.google.com/file/d/1iuTuSSlZMGad91gRB7ECPn4jaylINOqr/view
 
 ## Description 
@@ -61,4 +62,6 @@ npm install inquirer
 
   ## Questions 
 
+<<<<<<< HEAD
  If you have any question about my project ping here : abiryusuf5225@gmail.com and [abiryusuf](https://abiryusuf.github.io/Update_Portfolio/) 
+
