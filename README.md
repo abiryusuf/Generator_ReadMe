@@ -12,7 +12,7 @@ From Terminal or Command line application that dynamically generate a README.md 
 * [Team](#team)
 * [Usage](#usage)
 * [License](#license)
-* [Test] (*tests)
+* [Tests] (#tests)
 * [Questions](#questions)
 
 ## Installation 
@@ -23,4 +23,36 @@ npm install axios
 npm install file-system --save
 npm install inquirer
 ```
+## Contributing 
+ 
+ Step 1
+ * Option 1
+    Fork This repo
+ * Option  2
+    Clone this repo to your local maching using:  https://github.com/abiryusuf/Generator_ReadMe
 
+ If you want to add something, You can do it.
+
+ ## Features (Optional)   
+
+ ## Team (Optional)
+
+ ## Usage 
+
+ Have to install All dependencies such as npm, axios. 
+
+ ## License 
+ * https://opensource.org/licenses/Apache-2.0
+
+ [!License(https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+
+ ## Tests 
+  Runing test by using the commmand:
+  ```
+  npm run test
+
+  ```
+
+  ## Questions 
+
+ If you have any question about my project ping here : abiryusuf5225@gmail.com and [abiryusuf](https://github.com/abiryusuf/Update_Portfolio) 

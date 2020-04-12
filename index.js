@@ -79,3 +79,64 @@ inquirer
   });
 
  
+function getInfo(project, description, licenses, dependencies, tests, contributing ){
+ console.log(`Project ${project}`);
+ return
+`
+ ## Description 
+   
+ ${description}
+
+
+## Table of Contents
+
+
+* [Installation](#installation)
+* [Contributing](#contributing)
+* [Features](#features)
+* [Team](#team)
+* [Usage](#usage)
+* [License](#license)
+* [Tests] (#tests)
+* [Questions](#questions)
+
+## Installation 
+ All the code required to get started, Run the following command
+\`\`\
+${dependencies}
+\`\`\
+
+## Contributing 
+ ${contributing}
+ Step 1
+ * Option 1
+    Fork This repo
+ * Option  2
+    Clone this repo to your local maching using:  https://github.com/abiryusuf/Generator_ReadMe
+
+ If you want to add something, You can do it.
+
+ ## Features (Optional)   
+
+ ## Team (Optional)
+
+ ## Usage 
+
+ Have to install All dependencies such as npm, axios. 
+
+ ## License 
+ 
+ ${licenses}
+ ## Tests 
+  Runing test by using the commmand:
+  \`\`\
+  ${tests}
+  \`\`\
+  
+
+  ## Questions 
+
+ If you have any question about my project ping here : abiryusuf5225@gmail.com and [abiryusuf](https://github.com/abiryusuf/Update_Portfolio) 
+`;
+}
+module.exports =getInfo;
