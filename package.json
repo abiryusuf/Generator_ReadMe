@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/abiryusuf/Generator_ReadMe#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axois": "0.0.1-security",
     "badmath": "^1.0.1",
     "file-system": "^2.2.2",
